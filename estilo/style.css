@@ -20,9 +20,8 @@ html, body{
 
 }
 header{
-    background-image: url('../imagens/pexels-karol-d-841228\ \(1\).jpg');
+    background-image: linear-gradient(to bottom,rgba(255, 255, 0, 0.584), rgba(255, 0, 0, 0.49));
     background-size: cover;
-    background-position: left bottom;
     background-attachment: fixed;
     background-color: black;
     text-align: center;
